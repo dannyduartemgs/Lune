@@ -1,7 +1,7 @@
 # Lune
 An Advantage. Lune skin for Artificer
 
-I just finished Expedition 33 this week and can't take it out of my mind, so here I am making skins for risk of rain. I'm also planning to update my music mod with some of the tracks in Expedition 33 ost. 
+I just finished Expedition 33 this week and can't take it out of my mind, so here I am making skins for risk of rain. Lune fits so perfectly with Artificer, so I had to make her first. I'm also planning to update my music mod with some of the tracks in Expedition 33 ost. 
 
 ![Lune](https://github.com/user-attachments/assets/f655d87c-aabd-4f81-af65-633f9c122284)
 
